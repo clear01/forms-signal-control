@@ -12,7 +12,7 @@ Installation
 ------------
 
 ```
-composer require nella/forms-signal-control
+composer require clear01/forms-signal-control
 ```
 
 Usage
